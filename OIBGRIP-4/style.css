@@ -1,0 +1,72 @@
+.container {
+    background-color: rgb(187, 186, 186);
+    border-radius: 5px;
+    padding: 25px 0px 5px 0px;
+    border: 1px solid rgba(0, 0, 0, 0.384);   
+}
+
+body {
+    padding: 15px 30px 0px 30px;
+}
+
+.innercontainer {
+    padding: 10px ;
+}
+
+header {
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.384);
+    border-radius: 5px;
+    padding: 3px;
+    margin: 0px ;
+}
+
+h4 {
+    background-color: rgba(0, 0, 0, 0.384);
+    border-radius: 5px;
+    padding: 5px;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(187, 186, 186);
+}
+
+header h3,header h1,header h2 {
+    margin: 10px;
+}
+
+header h3 {
+    color: rgb(187, 186, 186);
+}
+
+header h3:hover,h4:hover,p b:hover {
+    color: lime;
+}
+
+a img:hover {
+    width: 264px;
+    height: 190px;
+}
+
+section {
+    text-align: center;
+}
+
+section img {
+    border-radius: 5px;
+    border: 1px solid rgba(0, 0, 0, 0.384);
+}
+
+#middle {
+    padding: 0% 20%;
+}
+
+i a:hover{
+    color: crimson;
+}
+
+main {
+    text-align: justify;
+    padding: 0px 20px 5px 5px;
+    word-spacing: 2px;
+    line-height: 1.3;
+
+} 
